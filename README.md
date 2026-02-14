@@ -1,3 +1,3 @@
-# initial-try
+﻿# initial-try
 Gitの練習
-Gitで更新(main)
+Gitで更新(feature)
