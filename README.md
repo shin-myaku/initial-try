@@ -1,3 +1,3 @@
 # initial-try
 Gitの練習
-Githubで更新
+Gitで更新(main)
